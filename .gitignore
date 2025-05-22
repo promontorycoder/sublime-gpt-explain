@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sublime plugin metadata
+*.sublime-workspace
+*.sublime-project
+*.sublime-package
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# User config
+*.log
+*.env
+.env.*
+secrets/
+*.bak
+
+# Python virtual environments
+venv/
+.env/
