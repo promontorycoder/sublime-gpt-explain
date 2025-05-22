@@ -1,0 +1,6 @@
+[
+  {
+    "caption": "GPT Explain: Explain Selected Code",
+    "command": "gpt_explain"
+  }
+]
